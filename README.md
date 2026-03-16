@@ -76,7 +76,7 @@
 | Platform | Link |
 |----------|------|
 | 🌐 Portfolio | [adithyadevadas.netlify.app](https://adithyadevadas.netlify.app) |
-| 💼 LinkedIn | [linkedin.com/in/adithya-devadas](https://www.linkedin.com/in/adithya-d30) |
+| 💼 LinkedIn | [linkedin.com/in/adithya-d30](https://www.linkedin.com/in/adithya-d30) |
 | 🐙 GitHub | [github.com/adithyadas01](https://github.com/adithyadas01) |
 | 📧 Email | adithyadevadas01@gmail.com |
 

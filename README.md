@@ -5,7 +5,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7B731&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+Python+%7C+SQL;Power+BI+%7C+Tableau+%7C+ML;Turning+Data+into+Insights+🚀)
 
 [![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Now-brightgreen?style=for-the-badge)](https://adithyadevadas.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adithya-devadas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adithya-d30)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/adithyadas01)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:adithyadevadas01@gmail.com)
 
@@ -76,7 +76,7 @@
 | Platform | Link |
 |----------|------|
 | 🌐 Portfolio | [adithyadevadas.netlify.app](https://adithyadevadas.netlify.app) |
-| 💼 LinkedIn | [linkedin.com/in/adithya-devadas](https://www.linkedin.com/in/adithya-devadas) |
+| 💼 LinkedIn | [linkedin.com/in/adithya-devadas](https://www.linkedin.com/in/adithya-d30) |
 | 🐙 GitHub | [github.com/adithyadas01](https://github.com/adithyadas01) |
 | 📧 Email | adithyadevadas01@gmail.com |
 
